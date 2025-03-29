@@ -72,4 +72,4 @@ These projects were developed using various microcontrollers (Arduino Uno and ES
 MIT License
 
 ## Author
-Nick [Last Name or GitHub Handle]
+Nicolas Miller
